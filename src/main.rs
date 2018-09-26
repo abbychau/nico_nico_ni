@@ -2,9 +2,9 @@ extern crate ears;
 extern crate base64;
 use std::fs::File;
 use std::io::prelude::*;
-use ears::{Music, Sound, AudioController};
+use ears::{Music, AudioController};
 fn main() {
-    println!("にっこにっこに〜");
+    println!("にっこにっこにー♪あなたのハートににこにこにー♪笑顔届ける矢澤にこにこー♪にこにーって覚えてラブにこー♪");
 let data="T2dnUwACAAAAAAAAAABbe+yDAAAAAAjowZgBHgF2b3JiaXMAAAAAAkSsAAAAAAAAAHECAAAAAAC4
 AU9nZ1MAAAAAAAAAAAAAW3vsgwEAAAAIIw5oErj/////////////////////kQN2b3JiaXMNAAAA
 TGF2ZjU3LjU2LjEwMQYAAAAMAAAAbGFuZ3VhZ2U9dW5kGQAAAGhhbmRsZXJfbmFtZT1Tb3VuZEhh

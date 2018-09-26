@@ -1,8 +1,8 @@
 [package]
-name = "NicoNicoNi"
-version = "0.1.0"
-authors = ["Cody Kotichas <ckotichas@csu.fullerton.edu>"]
-description="にっこにっこに〜"
+name = "nico_nico_ni"
+version = "0.1.1"
+authors = ["Abby <i@abby.md>"]
+description="にっこにっこにー♪あなたのハートににこにこにー♪笑顔届ける矢澤にこにこー♪にこにーって覚えてラブにこー♪"
 license="MIT OR Apache-2.0"
 
 
