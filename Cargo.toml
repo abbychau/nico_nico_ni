@@ -3,7 +3,7 @@ name = "NicoNicoNi"
 version = "0.1.0"
 authors = ["Cody Kotichas <ckotichas@csu.fullerton.edu>"]
 description="にっこにっこに〜"
-license="BSD License"
+license="MIT OR Apache-2.0"
 
 
 [dependencies]
