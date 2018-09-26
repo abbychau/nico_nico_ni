@@ -3,7 +3,7 @@ name = "NicoNicoNi"
 version = "0.1.0"
 authors = ["Cody Kotichas <ckotichas@csu.fullerton.edu>"]
 description="にっこにっこに〜"
-license="wtfpl"
+license="BSD License"
 
 
 [dependencies]
