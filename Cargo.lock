@@ -2,8 +2,23 @@
 name = "NicoNicoNi"
 version = "0.1.0"
 dependencies = [
+ "base64 0.9.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "ears 0.5.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
+
+[[package]]
+name = "base64"
+version = "0.9.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+dependencies = [
+ "byteorder 1.2.6 (registry+https://github.com/rust-lang/crates.io-index)",
+ "safemem 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "byteorder"
+version = "1.2.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "ears"
@@ -24,7 +39,15 @@ name = "libc"
 version = "0.2.43"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
+[[package]]
+name = "safemem"
+version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
 [metadata]
+"checksum base64 0.9.3 (registry+https://github.com/rust-lang/crates.io-index)" = "489d6c0ed21b11d038c31b6ceccca973e65d73ba3bd8ecb9a2babf5546164643"
+"checksum byteorder 1.2.6 (registry+https://github.com/rust-lang/crates.io-index)" = "90492c5858dd7d2e78691cfb89f90d273a2800fc11d98f60786e5d87e2f83781"
 "checksum ears 0.5.1 (registry+https://github.com/rust-lang/crates.io-index)" = "408e93e03e3b69b15c5982e0462b2d3854a0844aeed162bc2b6b75c963ec6986"
 "checksum lazy_static 0.2.11 (registry+https://github.com/rust-lang/crates.io-index)" = "76f033c7ad61445c5b347c7382dd1237847eb1bce590fe50365dcb33d546be73"
 "checksum libc 0.2.43 (registry+https://github.com/rust-lang/crates.io-index)" = "76e3a3ef172f1a0b9a9ff0dd1491ae5e6c948b94479a3021819ba7d860c8645d"
+"checksum safemem 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)" = "8dca453248a96cb0749e36ccdfe2b0b4e54a61bfef89fb97ec621eb8e0a93dd9"
