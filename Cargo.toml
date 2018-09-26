@@ -1,6 +1,6 @@
 [package]
 name = "nico_nico_ni"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["Abby <i@abby.md>"]
 description="にっこにっこにー♪あなたのハートににこにこにー♪笑顔届ける矢澤にこにこー♪にこにーって覚えてラブにこー♪"
 license="MIT OR Apache-2.0"
